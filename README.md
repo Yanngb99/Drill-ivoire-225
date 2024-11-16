@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Drill Ivoire</title>
+  Drill Ivoire
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
